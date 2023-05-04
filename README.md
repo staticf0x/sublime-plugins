@@ -24,7 +24,7 @@ For example:
             100
         ],
         "gitlab_url": "https://gitlab.com/group/project/-/blob/master/{}#L{}",
-        "jira_url": "https://your.jira.instance.com/browser/{}",
+        "jira_url": "https://your.jira.instance.com/browse/{}",
     }
 }
 ```
@@ -36,7 +36,7 @@ browser.
 
 ### Config
 
-`jira_url` -- `"https://your.jira.instance.com/browser/{}"`
+`jira_url` -- `"https://your.jira.instance.com/browse/{}"`
 
 The placeholder is for the ticket number.
 
