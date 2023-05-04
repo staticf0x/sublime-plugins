@@ -1,0 +1,4 @@
+[
+    { "caption": "Jira Lookup", "command": "jira_lookup" },
+    { "caption": "Copy GitLab Link", "command": "copy_gitlab_link" },
+]
